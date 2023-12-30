@@ -9,6 +9,8 @@ registers OCRnA, OCRnB and TCNTn the state of the pins OCnA, OCnB should be inve
 |----------------|---------|--------------|
 | 0, TC0         | 1       | 30, 250      |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3d97d7ef-7229-4c91-bde7-d24ee1b169ef)
+
 ##### Task 2. Arduino Mega 2560
 
 Write a program in C (C ++) that generates an inverted PWM signal on the OCnA pin and a non-inverted PWM signal on the
@@ -26,6 +28,8 @@ program of the logic analyzer.
 |-------------|---------------|------------------|
 | 1, TC2      | 980.39        | 400, 270         |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/28e17c90-92d6-44db-8e0a-087cfb60b970)
+
 ##### Task 3. Arduino 328
 
 Write a program in C (C ++) that generates a PWM signal on the OCnB foam
@@ -36,6 +40,8 @@ of the duration of the duration of the high signal for non-inverted PWM.
 | Mode, timerNon, PWM | Frequency, Hz | Divisor | %  |
 |---------------------|---------------|---------|----|
 | 5, TC2, AND         | 400000        | 1       | 25 |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a36c1430-8db0-43ec-84bb-2a841e3373ea)
 
 # Лабораторна робота No2 (8-бітні таймер-лічильники)
 
@@ -48,6 +54,8 @@ OCRnA, OCRnB та TCNTn стан пінів OCnA, OCnB повинен інвер
 | Режим, таймерNon | Дільник | OCRnB, OCRnA |
 |------------------|---------|--------------|
 | 0, TC0           | 1       | 30, 250      |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3d97d7ef-7229-4c91-bde7-d24ee1b169ef)
 
 ##### Завдання 2. Arduino Mega 2560
 
@@ -64,6 +72,8 @@ OCRnA, OCRnB та TCNTn стан пінів OCnA, OCnB повинен інвер
 |---------------|-------------|-------------------|
 | 1, TC2        | 980,39      | 400, 270          |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/28e17c90-92d6-44db-8e0a-087cfb60b970)
+
 ##### Завдання 3. Arduino 328
 
 Написати програму мовою С(С++) яка генерує на піні OCnВ ШІМ сигнал
@@ -76,5 +86,4 @@ OCRnA, OCRnB та TCNTn стан пінів OCnA, OCnB повинен інвер
 |-----------------------|-------------|---------|----|
 | 5, TC2, І             | 400000      | 1       | 25 |
 
-
-
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a36c1430-8db0-43ec-84bb-2a841e3373ea)
