@@ -16,7 +16,7 @@ Write a program in C (C++) that cyclically performs the following actions:
 
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6d91ef03-6359-48a0-b7ce-678998c76c58)
 
-##### Task 2. Arduino 328.
+##### Task 2. Arduino 328
 
 Perform the following steps:
 
