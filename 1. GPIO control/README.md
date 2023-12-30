@@ -1,4 +1,4 @@
-# Laboratory work #1 (GPIO control)
+# Laboratory work No1 (GPIO control)
 
 ##### Task 1. Arduino Mega 2560
 
