@@ -14,6 +14,8 @@ Write a program in C (C++) that cyclically performs the following actions:
 |-----|-----|--------------------------------------|-----|-----|-----|
 | A4  | D9  | with a resistor that pulls up to +5V | D2  | D4  | D10 |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6d91ef03-6359-48a0-b7ce-678998c76c58)
+
 ##### Task 2. Arduino 328.
 
 Perform the following steps:
@@ -27,6 +29,8 @@ Perform the following steps:
 | Px1 | Px2 | Wiring diagram                    | Px3 | Px4 | Px5 |
 |-----|-----|-----------------------------------|-----|-----|-----|
 | A4  | D9  | with a resistor pulling up to +5V | D2  | D4  | D10 |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/8ba90665-af28-451a-a456-cc370254f4b2)
 
 # Лабораторна робота No1 (керування GPIO)
 
@@ -44,6 +48,8 @@ Perform the following steps:
 |-----|-----|-----------------------------------|-----|-----|-----|
 | A4  | D9  | з резистором який підтягує до +5В | D2  | D4  | D10 |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/cc59aabc-c455-44d4-a811-4384a95eaef4)
+
 ##### Завдання 2. Arduino 328
 
 Виконати наступні дії:
@@ -57,3 +63,5 @@ Perform the following steps:
 | Px1 | Px2 | Схема підключення                 | Px3 | Px4 | Px5 |
 |-----|-----|-----------------------------------|-----|-----|-----|
 | A4  | D9  | з резистором який підтягує до +5В | D2  | D4  | D10 |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/8ba90665-af28-451a-a456-cc370254f4b2)
