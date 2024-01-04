@@ -8,6 +8,7 @@ Write a program in C (C ++) that configures the appropriate mode of operation of
 |---------------|-------|--------------|
 | 12, 1024      | 700   | 500, 200     |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/1ec84489-7237-450b-aa19-13203b9e8cc8)
 
 ##### Task 2. Arduino 328
 
@@ -17,7 +18,9 @@ Set up the PWM signal on the pins OC1A, OC1B in the appropriate mode with the sp
 |--------|-------------------|-------------------------------|-------------------------------|
 | 2      | 1956,95           | 0,137                         | 0,45                          |
 
-##### Завдання 3. Arduino Mega 2560
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/cc80317c-f613-4b7c-b4d7-86530749c585)
+
+##### Task 3. Arduino Mega 2560
 
 Generate an inverted PWM signal with the specified bit depth on the OS1B foam in the appropriate operating mode. Determine the frequency of the received signal theoretically and experimentally at the specified divisor. Calculate the value of the OCR1B register so that the duty cycle
 corresponded to the percentages in the table.
@@ -25,6 +28,8 @@ corresponded to the percentages in the table.
 | Mode № | PWM signal bit depth | Divider | Duty factor, % |
 |--------|----------------------|---------|----------------|
 | 8      | 15                   | 1       | 20             |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/0b630b1c-957b-4647-9631-318dcef33fc3)
 
 # Лабораторна робота No3 (16-бітні таймер-лічильники)
 
@@ -38,6 +43,7 @@ OCR1A, OCR1B та TCNT1 стан пінів OC1A, OC1B повинен інвер
 |----------------|------|--------------|
 | 12, 1024       | 700  | 500, 200     |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/fb5b39e2-83fc-43c7-a9b8-a16ee9933308)
 
 ##### Завдання 2. Arduino 328
 
@@ -51,6 +57,8 @@ OCR1A, OCR1B та TCNT1 стан пінів OC1A, OC1B повинен інвер
 |---------|-----------------|-------------------------------|-------------------------------|
 | 2       | 1956,95         | 0,137                         | 0,45                          |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/f2e2ff8d-d253-42dd-a849-344ecd39a7d4)
+
 ##### Завдання 3. Arduino Mega 2560
 
 Згенерувати інверсний ШІМ сигнал завданою розрядністю на піні ОС1В у
@@ -63,3 +71,4 @@ OCR1A, OCR1B та TCNT1 стан пінів OC1A, OC1B повинен інвер
 |---------|-------------------------|---------|--------------------------|
 | 8       | 15                      | 1       | 20                       |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/d2a9006a-d9e3-491a-b2ae-bb4ea53c03cb)
