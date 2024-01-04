@@ -1,6 +1,6 @@
 # Laboratory work No. 7 (ADC)
 
-##### Task 1. Arduino Mega 2560
+##### Task 1. Arduino 328
 
 Connect three LEDs through the necessary resistors to the indicated pins
 (P1, P2, P3), as well as a variable resistor to the analog input Ax. Using
@@ -15,7 +15,7 @@ ADC, for ATmega2560 - eight-bit value.
 
 *- use pin P2 as digital.
 
-##### Task 2. Arduino 328
+##### Task 2. Arduino Mega 2560
 
 Using the continuous analog-to-digital conversion mode, write a program that controls two LEDs connected through the
 necessary resistors to the PWM pins of one timer. For ATmega328, read the 10-bit value of the ADC and, therefore, use a
@@ -37,7 +37,7 @@ brightness of the second LED, and then the first, and in the leftmost position b
 connect two channels of the virtual oscilloscope in parallel to the LEDs and make sure that the required signals are
 generated.
 
-##### Task 3. Arduino Mega 2560
+##### Task 3. Arduino 328
 
 Repeat task 7.2, but for another microcontroller with simultaneous output to the Virtual Terminal or Serial Monitor
 information about the current values of the used comparison registers.\
@@ -49,7 +49,7 @@ OCR2B = 142 (OCR1B = 348).
 
 # Лабораторна робота No7 (АЦП)
 
-##### Завдання 1. Arduino Mega 2560
+##### Завдання 1. Arduino 328
 
 Підключити три світлодіоди через необхідні резистори до зазначених пінів
 (Р1, Р2, Р3), а також змінний резистор на аналоговий вхід Ах. Використовуючи
@@ -64,7 +64,7 @@ OCR2B = 142 (OCR1B = 348).
 
 *- пін Р2 використовувати як цифровий.
 
-##### Завдання 2. Arduino 328
+##### Завдання 2. Arduino Mega 2560
 
 Використовуючи режим безперервного аналого-цифрового перетворення
 написати програму керуючу двома світлодіодами, підключеними через
@@ -96,7 +96,7 @@ OCR2B = 142 (OCR1B = 348).
 канали віртуального осцилографа та переконайтеся, що генеруються необхідні
 сигнали.
 
-##### Завдання 3. Arduino Mega 2560
+##### Завдання 3. Arduino 328
 
 Повторити завдання 7.2, але для іншого мікроконтролера з одночасним
 виведенням у Virtual Terminal або Serial Monitor інформації про поточні
