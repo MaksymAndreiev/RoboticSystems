@@ -12,6 +12,10 @@ logical zero in the corresponding bit bit turns the LED on or off.
 |-----------|----------|----|----|----| 
 | INT0, 328 | pressing | A0 | D3 | D8 |
 
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/2204f2e0-dfe5-4a96-bbac-2d66277fce90)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/9f8b7286-badc-4505-a07f-1c42b5dd6af2)
+
 ##### Task 2. Arduino 328
 
 Connect the LEDs and buttons according to the scheme shown in Fig.
@@ -29,6 +33,9 @@ algorithm of this program.
 |--------|--------|----|----|
 | PCINT2 | PCINT5 | A1 | D3 | 
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7fe34e92-a21c-41ea-9629-88dfd2880ade)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6fe0ece7-f3a4-4d73-9e7d-7deba9e5917e)
+
 ##### Task 3. Arduino Mega 2560
 
 Connect the button according to the scheme shown in Fig. Using the appropriate PCINT interrupt pin, write a program that
@@ -40,6 +47,9 @@ diagram of the connection.
 | Pin     |
 |---------|
 | PCINT16 |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a1a12b6e-52f9-4ab4-955f-e707c5221f6e)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/ac58fbd5-4aa8-43bf-8360-a7e418a15a8c)
 
 # Лабораторна робота No5 (зовнішні переривання)
 
@@ -60,6 +70,9 @@ diagram of the connection.
 | Px, МК    | Кнопка     | Dx | Dy | Dz |
 |-----------|------------|----|----|----| 
 | INT0, 328 | натискання | А0 | D3 | D8 |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/2204f2e0-dfe5-4a96-bbac-2d66277fce90)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/9f8b7286-badc-4505-a07f-1c42b5dd6af2)
 
 ##### Завдання 2. Arduino 328
 
@@ -87,6 +100,9 @@ Dy виберіть згідно свого варіанту. Тип мікро�
 |--------|--------|----|----|
 | PCINT2 | PCINT5 | А1 | D3 | 
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7fe34e92-a21c-41ea-9629-88dfd2880ade)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6fe0ece7-f3a4-4d73-9e7d-7deba9e5917e)
+
 ##### Завдання 3. Arduino Mega 2560
 
 Підключити кнопку за схемою зображеною на рис.
@@ -109,3 +125,5 @@ Dy виберіть згідно свого варіанту. Тип мікро�
 |---------|
 | PCINT16 | 
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/9fa483db-2a56-4abd-8c0e-4a83710dc993)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/ac58fbd5-4aa8-43bf-8360-a7e418a15a8c)
