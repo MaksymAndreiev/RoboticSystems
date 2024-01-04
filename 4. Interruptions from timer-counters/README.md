@@ -9,6 +9,8 @@ level and t2 of a low level on the indicated pin.
 |------------------|------------------------------|-----|
 | T0, 1            | 100 μs, 150 μs               | A5  |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7d43e549-4950-43e6-a36d-8b2930451b2f)
+
 ##### Task 2. Arduino Mega 2560
 
 With the help of a coincident interrupt on the first timer (or another as instructed by the teacher), make the value of
@@ -19,6 +21,8 @@ choose the pin according to your option from the table.
 | Divisor | Interrupt, mode number | t, μs | Pin |
 |---------|------------------------|-------|-----|
 | 256     | COMPB, №12             | 10000 | A0  |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/fa2657d7-9a5d-4e13-a733-35137b0c03c1)
 
 ##### Task 3. Arduino 328
 
@@ -36,6 +40,8 @@ Do the following.
 |------|-----------------------|
 | ICP1 | 5000                  |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/40bf585c-875c-402f-a687-d96994a2a68b)
+
 # Лабораторна робота No4 (переривання від таймер-лічильників)
 
 ##### Завдання 1. Arduino 328
@@ -48,6 +54,8 @@ Do the following.
 |--------------------|------------------------------|-----|
 | T0, 1              | 100 мкс, 150 мкс             | А5  |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5df37b7d-1274-45c6-a0bc-13de707e83cf)
+
 ##### Завдання 2. Arduino Mega 2560
 
 За допомогою переривання за збігом на першому таймері (або іншому по
@@ -59,6 +67,8 @@ Do the following.
 | Дільник | Переривання, № режиму | t, мкс | Пін |
 |---------|-----------------------|--------|-----|
 | 256     | COMPB, №12            | 10000  | А0  |
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/ac15ea9a-8afe-412b-884a-8e0fcf2ae2a6)
 
 ##### Завдання 3. Arduino 328
 
@@ -78,3 +88,4 @@ Do the following.
 |------|--------------------|
 | ICP1 | 5000               |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3b3ffdc4-aaf7-4fb9-b938-2d347ef3f6fd)
