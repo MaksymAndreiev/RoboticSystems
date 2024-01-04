@@ -1,6 +1,6 @@
 # Laboratory work No5 (external interrupts)
 
-##### Task 1. Arduino Mega 2560
+##### Task 1. Arduino 328
 
 Connect three LEDs and a button (see Fig.). Choose the pins Dx, Dy, Dz and Px according to your according to your
 option. Show the wiring diagram of the connection. Write a program, using the appropriate external interrupt, so that
@@ -16,7 +16,7 @@ logical zero in the corresponding bit bit turns the LED on or off.
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/2204f2e0-dfe5-4a96-bbac-2d66277fce90)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/9f8b7286-badc-4505-a07f-1c42b5dd6af2)
 
-##### Task 2. Arduino 328
+##### Task 2. Arduino Mega 2560
 
 Connect the LEDs and buttons according to the scheme shown in Fig.
 Write a program so that when you press the first button, the state of the first LED changes, and when you press the
@@ -36,7 +36,7 @@ algorithm of this program.
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7fe34e92-a21c-41ea-9629-88dfd2880ade)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6fe0ece7-f3a4-4d73-9e7d-7deba9e5917e)
 
-##### Task 3. Arduino Mega 2560
+##### Task 3. Arduino 328
 
 Connect the button according to the scheme shown in Fig. Using the appropriate PCINT interrupt pin, write a program that
 will measure the time the button is pressed, and you need to use a 16-bit timer in normal mode. Organize the output of
@@ -53,7 +53,7 @@ diagram of the connection.
 
 # Лабораторна робота No5 (зовнішні переривання)
 
-##### Завдання 1. Arduino Mega 2560
+##### Завдання 1. Arduino 328
 
 Підключити три світлодіоди та кнопку (див. рис.). Піни Dx, Dy, Dz та Px вибрати згідно свого
 варіанту. Зобразити монтажну схему підключення. Написати
@@ -74,7 +74,7 @@ diagram of the connection.
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/2204f2e0-dfe5-4a96-bbac-2d66277fce90)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/9f8b7286-badc-4505-a07f-1c42b5dd6af2)
 
-##### Завдання 2. Arduino 328
+##### Завдання 2. Arduino Mega 2560
 
 Підключити світлодіоди та кнопки за
 схемою зображеною на рис.
@@ -103,7 +103,7 @@ Dy виберіть згідно свого варіанту. Тип мікро�
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7fe34e92-a21c-41ea-9629-88dfd2880ade)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6fe0ece7-f3a4-4d73-9e7d-7deba9e5917e)
 
-##### Завдання 3. Arduino Mega 2560
+##### Завдання 3. Arduino 328
 
 Підключити кнопку за схемою зображеною на рис.
 Використавши відповідне піну
