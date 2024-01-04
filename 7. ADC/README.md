@@ -15,6 +15,8 @@ ADC, for ATmega2560 - eight-bit value.
 
 *- use pin P2 as digital.
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3e26ed9a-c084-409f-9aa7-b752a292a729)
+
 ##### Task 2. Arduino Mega 2560
 
 Using the continuous analog-to-digital conversion mode, write a program that controls two LEDs connected through the
@@ -37,6 +39,8 @@ brightness of the second LED, and then the first, and in the leftmost position b
 connect two channels of the virtual oscilloscope in parallel to the LEDs and make sure that the required signals are
 generated.
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/bd6d4ccc-9d1a-4983-88f9-cb97b4b71bad)
+
 ##### Task 3. Arduino 328
 
 Repeat task 7.2, but for another microcontroller with simultaneous output to the Virtual Terminal or Serial Monitor
@@ -46,6 +50,11 @@ information about the current values of the used comparison registers.\
 For example, see the figure, which shows that the resistor slider is position 78% (67%), while the first LED is lit with
 maximum brightness, which corresponds to OCR2A = 255 (OCR1A = 2023), and the second LED glows with partial brightness
 OCR2B = 142 (OCR1B = 348).
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6506fabc-39a2-49c0-8e31-3b9984764b50)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/dfc8608a-f2f2-436e-9401-72713c7d4224)
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3fb167d4-fbe3-44d7-8c5c-8f976d8ba785)
 
 # Лабораторна робота No7 (АЦП)
 
@@ -63,6 +72,8 @@ OCR2B = 142 (OCR1B = 348).
 | А5 | D13 | A0  | D2 | 
 
 *- пін Р2 використовувати як цифровий.
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3e26ed9a-c084-409f-9aa7-b752a292a729)
 
 ##### Завдання 2. Arduino Mega 2560
 
@@ -91,6 +102,8 @@ OCR2B = 142 (OCR1B = 348).
 |----|
 | А2 |
 
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/bd6d4ccc-9d1a-4983-88f9-cb97b4b71bad)
+
 **Примітка:** Proteus не завжди правильно відображає яскравість світлодіода в
 залежності від сигналу ШИМ. Тому підключіть паралельно світлодіодам два
 канали віртуального осцилографа та переконайтеся, що генеруються необхідні
@@ -108,3 +121,8 @@ OCR2B = 142 (OCR1B = 348).
 максимальною яскравістю, що відповідає OCR2A = 255 (OCR1A = 2023), а
 другий світлодіод світиться з неповною яскравістю OCR2B = 142 (OCR1B =
 348).
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/6506fabc-39a2-49c0-8e31-3b9984764b50)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/dfc8608a-f2f2-436e-9401-72713c7d4224)
+
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/3fb167d4-fbe3-44d7-8c5c-8f976d8ba785)
