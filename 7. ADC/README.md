@@ -37,6 +37,16 @@ brightness of the second LED, and then the first, and in the leftmost position b
 connect two channels of the virtual oscilloscope in parallel to the LEDs and make sure that the required signals are
 generated.
 
+##### Task 3. Arduino Mega 2560
+
+Repeat task 7.2, but for another microcontroller with simultaneous output to the Virtual Terminal or Serial Monitor
+information about the current values of the used comparison registers.\
+**Use the built-in interrupt of the ADC module.**
+
+For example, see the figure, which shows that the resistor slider is position 78% (67%), while the first LED is lit with
+maximum brightness, which corresponds to OCR2A = 255 (OCR1A = 2023), and the second LED glows with partial brightness
+OCR2B = 142 (OCR1B = 348).
+
 # Лабораторна робота No7 (АЦП)
 
 ##### Завдання 1. Arduino Mega 2560
@@ -85,16 +95,6 @@ generated.
 залежності від сигналу ШИМ. Тому підключіть паралельно світлодіодам два
 канали віртуального осцилографа та переконайтеся, що генеруються необхідні
 сигнали.
-
-##### Task 3. Arduino Mega 2560
-
-Repeat task 7.2, but for another microcontroller with simultaneous output to the Virtual Terminal or Serial Monitor
-information about the current values of the used comparison registers.\
-**Use the built-in interrupt of the ADC module.**
-
-For example, see the figure, which shows that the resistor slider is position 78% (67%), while the first LED is lit with
-maximum brightness, which corresponds to OCR2A = 255 (OCR1A = 2023), and the second LED glows with partial brightness
-OCR2B = 142 (OCR1B = 348).
 
 ##### Завдання 3. Arduino Mega 2560
 
