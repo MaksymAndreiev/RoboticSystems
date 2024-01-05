@@ -36,7 +36,7 @@ Used in Arduino Mega 2560:
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a62c1e2e-c1c9-4825-9fe3-8bb217c43833)
 
 ### ATMega328p
-Used in Arduino Uno:
+Used in [Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3):
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7ee6394c-1646-4ab5-a167-623682d69ad0)
 
@@ -73,7 +73,7 @@ Used in Arduino Uno:
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a62c1e2e-c1c9-4825-9fe3-8bb217c43833)
 
 ### ATMega328p
-Використовується Arduino Uno:
+Використовується [Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3):
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7ee6394c-1646-4ab5-a167-623682d69ad0)
 
