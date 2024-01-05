@@ -31,7 +31,7 @@ Instead of real equipment, [**Proteus 8**](https://www.labcenter.com) was used, 
 A circuit diagram is attached to the description of each work, and the directories contain Proteus projects and Arduino code.
 
 ### ATMega2560
-Used in Arduino Mega 2560:
+Used in [Arduino Mega 2560](https://store.arduino.cc/products/arduino-mega-2560-rev3):
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a62c1e2e-c1c9-4825-9fe3-8bb217c43833)
 
@@ -68,7 +68,7 @@ Used in [Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3):
 До опису кожної роботи додано монтажну схему, а в папках знаходяться проєкти Proteus та код Arduino.
 
 ### ATMega2560
-Використовується в Arduino Mega 2560:
+Використовується в [Arduino Mega 2560](https://store.arduino.cc/products/arduino-mega-2560-rev3):
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a62c1e2e-c1c9-4825-9fe3-8bb217c43833)
 
