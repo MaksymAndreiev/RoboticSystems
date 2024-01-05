@@ -30,9 +30,14 @@ And some others.
 Instead of real equipment, [**Proteus 8**](https://www.labcenter.com) was used, a software package for computer-aided design (CAD) of electronic circuits. The Arduino boards (their simulation) ATmega2560 and ATmega328P were used.
 A circuit diagram is attached to the description of each work, and the directories contain Proteus projects and Arduino code.
 
-### Arduino Mega 2560
+### ATMega2560
+Used in Arduino Mega 2560:
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a62c1e2e-c1c9-4825-9fe3-8bb217c43833)
+
+### ATMega328p
+Used in Arduino Uno:
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7ee6394c-1646-4ab5-a167-623682d69ad0)
 
 
@@ -62,7 +67,13 @@ A circuit diagram is attached to the description of each work, and the directori
 Замість реального обладнання було використано [**Proteus 8**](https://www.labcenter.com) — пакет програм для автоматизованого проєктування (САПР) електронних схем. Використовувались Arduino плати (їх симуляція) ATmega2560 та ATmega328P.
 До опису кожної роботи додано монтажну схему, а в папках знаходяться проєкти Proteus та код Arduino.
 
-### Arduino Mega 2560
+### ATMega2560
+Використовується в Arduino Mega 2560:
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6)
 ![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/a62c1e2e-c1c9-4825-9fe3-8bb217c43833)
-![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/02e1dff6-e214-42fd-abd6-2267310bf239)
+
+### ATMega328p
+Використовується Arduino Uno:
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc)
+![image](https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/7ee6394c-1646-4ab5-a167-623682d69ad0)
+
