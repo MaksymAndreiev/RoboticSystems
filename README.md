@@ -7,7 +7,7 @@
 
 # Robotic Systems
 
-Workshop on the course "Robotic Systems" at V. N. Karazin Kharkiv National University, which I took in the 4th year of my studies in 2022 at the Department of Computer Science. 
+Workshop on the course "Robotic Systems" at V. N. Karazin Kharkiv National University, which I took in the 4th year of my studies in 2022 at the Computer Science Department. 
 
 Due to the war started by Russia, the program was cut in half. The following topics were covered.
 **Section 1. Embedded systems and microcontrollers.**\
